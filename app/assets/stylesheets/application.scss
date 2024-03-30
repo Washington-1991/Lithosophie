@@ -10,7 +10,23 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+@import "pages/navbar";
 
 body{
 background-color: #00224D;
 }
+
+.card-logo{
+  display: flex;
+  justify-content: center;
+  margin: 1vh;
+}
+
+.card-logo img{
+  width: 25vh;
+  height: 25vh;
+}
+
+// background-color: #00224D;
+// card main color #240A34;
+// card secondary color #430A5D;
