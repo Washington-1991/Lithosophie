@@ -1,12 +1,12 @@
-.navbar-lewagon {
-  justify-content: space-between;
-  background: white;
+// navbar-container
+.navbar-container{
 }
+// navbar-container
 
-.navbar-lewagon .navbar-collapse {
-  flex-grow: 0;
+// navbar-card-buttons
+.navbar-card-buttons{
+  background-image: url("navbar.jpg");
+  height: 12vh;
+  width: 100%;
 }
-
-.navbar-lewagon .navbar-brand img {
-  width: 40px;
-}
+// navbar-card-buttons
