@@ -21,6 +21,8 @@
 
 // button-crystals
 .button-crystals {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("crystals.jpg");
+  background-size: cover;
   margin-top: 8px;
   margin-left: 8px;
   margin-right: 8px;
@@ -42,6 +44,8 @@
 
 // button-candles
 .button-candles {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("candles.jpg");
+  background-size: cover;
   margin-top: 8px;
   margin-left: 8px;
   margin-right: 8px;
@@ -62,6 +66,8 @@
 
 // button-soaps
 .button-soaps {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("soaps.jpg");
+  background-size: cover;
   margin-top: 8px;
   margin-left: 8px;
   margin-right: 8px;
@@ -83,6 +89,8 @@
 
 // button-macrame
 .button-macrame {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("macrame.jpg");
+  background-size: cover;
   margin-top: 8px;
   margin-left: 8px;
   margin-right: 8px;
@@ -103,6 +111,8 @@
 
 // button-crochet
 .button-crochet {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("crochet.jpg");
+  background-size: cover;
   margin-top: 8px;
   margin-left: 8px;
   margin-right: 8px;
@@ -114,11 +124,13 @@
   border: transparent;
   border-radius: 50px;
 }
+
 .button-crochet:hover {
   background-color: #240A34;
   border: 1px solid #240A34;
   transition: 0.3s;
 }
+
 // button-crochet
 
 // button-contact
