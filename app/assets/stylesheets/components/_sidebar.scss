@@ -1,7 +1,9 @@
 // navbar-container
 .sidebar-container{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("buttons-background.jpg");
+  background-size: cover;
   border: 1px solid white;
   width: 10%;
-
+  padding: 8px;
 }
 // navbar-container
