@@ -4,7 +4,14 @@
   color: transparent;
   padding: 8px;
   border: solid 1px #ffffff;
-  border-radius: 5px;
+  font-size: bold;
+
+  &:hover{
+    background-color: #ffffff;
+    color: #000000;
+  }
 }
+
+
 
 // navbar-signin-button
