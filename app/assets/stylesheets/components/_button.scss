@@ -1,4 +1,4 @@
-// navbar-signin-button
+// navbar-sign-buttons
 
 .navbar-signin-button{
   color: transparent;
@@ -9,8 +9,11 @@
     border: solid 2px white;
     border-radius: 10px;
   }
+
+  &:active{
+    background-color: white;
+    color: #010d1e;
+  }
 }
 
-
-
-// navbar-signin-button
+// navbar-sign-buttons
