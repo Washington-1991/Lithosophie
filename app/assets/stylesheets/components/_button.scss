@@ -3,12 +3,11 @@
 .navbar-signin-button{
   color: transparent;
   padding: 8px;
-  border: solid 1px #ffffff;
   font-size: bold;
 
   &:hover{
     background-color: #ffffff;
-    color: #000000;
+    border-radius: 5px;
   }
 }
 
